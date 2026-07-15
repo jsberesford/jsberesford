@@ -23,6 +23,14 @@
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="850" alt="3d contribution calendar" />
 </div>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jsberesford/jsberesford/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jsberesford/jsberesford/output/pacman-contribution-graph.svg" />
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jsberesford/jsberesford/output/pacman-contribution-graph.svg" width="850" />
+  </picture>
+</div>
+
 <!-- thin divider -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ff7763,100:000000&height=3" />
 
