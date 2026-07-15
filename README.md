@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2600&pause=1000&color=D8D8D8&center=true&vCenter=true&multiline=true&repeat=false&width=680&height=90&lines=i'm+a+builder%2C+product+manager%2C+and+student+%40+georgia+state+university.;i've+led+operations+for+the+programming+club+(largest+org+on+campus)%2C;worked+2+swe+internships%2C+and+am+now+pivoting+towards+product+management." alt="bio" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2600&pause=1000&color=D8D8D8&center=true&vCenter=true&multiline=true&repeat=false&width=680&height=90&lines=i'm+a+builder%2C+product+manager%2C+and+student+%40+georgia+state+university.;i've+led+operations+for+the+programming+club+(largest+org+on+campus)%2C;worked+2+swe+internships,%2C++now+pivoting+towards+product." alt="bio" />
 </div>
 
 <div align="center">
