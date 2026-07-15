@@ -1,5 +1,5 @@
 <!-- top wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:ff7763,100:000000&height=140&section=header&text=&fontSize=0" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:ff7763,100:000000&height=80&section=header&text=&fontSize=0" />
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/b3629256-5b06-4577-8133-77873c499725" width="550" />
@@ -15,15 +15,15 @@
   </a>
 </div>
 
-<!-- divider wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&color=0:ff7763,100:000000&height=90&section=header&text=&fontSize=0" />
+<!-- thin divider -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ff7763,100:000000&height=3" />
 
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="850" alt="3d contribution calendar" />
 </div>
 
-<!-- divider wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,100:ff7763&height=90&section=header&text=&fontSize=0" />
+<!-- thin divider -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ff7763,100:000000&height=3" />
 
 <div align="center">
   <a href="https://linkedin.com/in/jaredberesford">
@@ -36,4 +36,4 @@
 </div>
 
 <!-- bottom wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:ff7763,100:000000&height=140&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:ff7763,100:000000&height=80&section=footer" />
