@@ -5,6 +5,9 @@
   <img src="https://github.com/user-attachments/assets/6ed059fc-40d0-4bab-9a29-6310bf46a6e2" width="550" />
 </div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2600&pause=1000&color=D8D8D8&center=true&vCenter=true&multiline=true&repeat=false&width=680&height=90&lines=i'm+a+builder%2C+product+manager%2C+and+student+%40+georgia+state+university.;i've+led+operations+for+the+programming+club+(largest+org+on+campus)%2C;worked+2+swe+internships%2C+and+am+now+pivoting+towards+product+management." alt="bio" />
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=FF7763&center=true&vCenter=true&width=300&lines=%E2%96%B6+NOW+PLAYING;%F0%9F%8E%A7+what+i'm+listening+to" alt="now playing" />
