@@ -2,8 +2,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:ff7763,100:000000&height=80&section=header&text=&fontSize=0" />
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/b3629256-5b06-4577-8133-77873c499725" width="550" />
+  <img src="https://github.com/user-attachments/assets/6ed059fc-40d0-4bab-9a29-6310bf46a6e2" width="550" />
 </div>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=FF7763&center=true&vCenter=true&width=300&lines=%E2%96%B6+NOW+PLAYING;%F0%9F%8E%A7+what+i'm+listening+to" alt="now playing" />
