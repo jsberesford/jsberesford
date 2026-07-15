@@ -22,9 +22,6 @@
 <!-- thin divider -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ff7763,100:000000&height=3" />
 
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="850" alt="3d contribution calendar" />
-</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/jsberesford/jsberesford/output/snake.svg" width="850" alt="snake" />
