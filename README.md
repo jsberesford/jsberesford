@@ -43,3 +43,5 @@
 
 <!-- bottom wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:ff7763,100:000000&height=80&section=footer" />
+
+bun bo bue
